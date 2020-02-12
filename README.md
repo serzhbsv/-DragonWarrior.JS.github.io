@@ -1,4 +1,4 @@
-repo [DragonWarriorJS](https://github.com/MartyHimmel/DragonWarriorJS)
+Author repo [DragonWarriorJS](https://github.com/MartyHimmel/DragonWarriorJS)
 ===============
 
 Recreating the original NES Dragon Warrior using JavaScript
